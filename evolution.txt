@@ -7,5 +7,5 @@ Generation
 6.Generatin -z
 Generation Alpha
 Unicorn
-
+zone
 List of named generations
